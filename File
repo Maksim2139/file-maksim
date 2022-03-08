@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Maksim2139/file-maksim.git
+git branch-M главная
+git push-u origin main
